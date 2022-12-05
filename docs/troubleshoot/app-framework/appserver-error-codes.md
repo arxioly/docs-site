@@ -1800,8 +1800,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0063W":"Stack trace follows\n%s
+### ZWED0063W
 
+  Stack trace follows\n%s
+
   **Reason:**
 
   TODO
@@ -1809,10 +1811,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0064W
 
-### ZWED0064W":"%s: invalid method %s
+  %s: invalid method %s
 
   **Reason:**
 
@@ -1824,8 +1828,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0065W":"Library %s is missing libraryVersion attribute for hosting files. Skipping file hosting.
+### ZWED0065W
 
+  Library %s is missing libraryVersion attribute for hosting files. Skipping file hosting.
+
   **Reason:**
 
   TODO
@@ -1836,8 +1842,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0066W":"%s: getCapabilities() is not a function
+### ZWED0066W
 
+  %s: getCapabilities() is not a function
+
   **Reason:**
 
   TODO
@@ -1845,10 +1853,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0068W
 
-### ZWED0068W":"Failed to set proxy authorizations. Error=
+  Failed to set proxy authorizations. Error=
 
   **Reason:**
 
@@ -1860,8 +1870,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0069W":"Returning null for cipher array because input had non-string: 
+### ZWED0069W
 
+  Returning null for cipher array because input had non-string: 
+
   **Reason:**
 
   TODO
@@ -1872,8 +1884,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0070W":"Error when reading PFX. Server cannot continue. Error=%s
+### ZWED0070W
 
+  Error when reading PFX. Server cannot continue. Error=%s
+
   **Reason:**
 
   TODO
@@ -1881,10 +1895,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0071W
 
-### ZWED0071W":"Unexpected error on server %s:%s. E=%s. Stack trace follows.\n%s
+  Unexpected error on server %s:%s. E=%s. Stack trace follows.\n%s
 
   **Reason:**
 
@@ -1896,8 +1912,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0072W":"Could not stop manager, error=
+### ZWED0072W
 
+  Could not stop manager, error=
+
   **Reason:**
 
   TODO
@@ -1908,8 +1926,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0073W":"No server returned for group=
+### ZWED0073W
 
+  No server returned for group=
+
   **Reason:**
 
   TODO
@@ -1917,10 +1937,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0074W
 
-### ZWED0074W":"Unknown default behavior=%s
+  Unknown default behavior=%s
 
   **Reason:**
 
@@ -1932,8 +1954,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0075W":"Services in plugin=%s war grouping skipped. Plugin missing or already grouped
+### ZWED0075W
 
+  Services in plugin=%s war grouping skipped. Plugin missing or already grouped
+
   **Reason:**
 
   TODO
@@ -1941,10 +1965,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0076W
 
-### ZWED0076W":"Skipping invalid plugin group=
+  Skipping invalid plugin group=
 
   **Reason:**
 
@@ -1956,8 +1982,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0077W":"Could not extract war for service=%s, error=
+### ZWED0077W
 
+  Could not extract war for service=%s, error=
+
   **Reason:**
 
   TODO
@@ -1968,8 +1996,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0078W":"Could not access files to determine status for service=%s, error=
+### ZWED0078W
 
+  Could not access files to determine status for service=%s, error=
+
   **Reason:**
 
   TODO
@@ -1977,10 +2007,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0079W
 
-### ZWED0079W":"Cannot add servlet for service=%s, error=
+  Cannot add servlet for service=%s, error=
 
   **Reason:**
 
@@ -1992,8 +2024,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0080W":"Cannot add servlet for service=%s
+### ZWED0080W
 
+  Cannot add servlet for service=%s
+
   **Reason:**
 
   TODO
@@ -2004,8 +2038,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0081W":"Could not start tomcat, error=
+### ZWED0081W
 
+  Could not start tomcat, error=
+
   **Reason:**
 
   TODO
@@ -2013,10 +2049,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0082W
 
-### ZWED0082W":"%s stderr=%s
+  %s stderr=%s
 
   **Reason:**
 
@@ -2028,8 +2066,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0083W":"Tomcat could not start. Closing. code=%s
+### ZWED0083W
 
+  Tomcat could not start. Closing. code=%s
+
   **Reason:**
 
   TODO
@@ -2040,8 +2080,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0084W":"Tomcat could not start. Exiting. code=%s
+### ZWED0084W
 
+  Tomcat could not start. Exiting. code=%s
+
   **Reason:**
 
   TODO
@@ -2049,10 +2091,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0085W
 
-### ZWED0085W":"%s Error when stopping, error=
+  %s Error when stopping, error=
 
   **Reason:**
 
@@ -2064,8 +2108,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0086W":"Could not stop tomcat, error=
+### ZWED0086W
 
+  Could not stop tomcat, error=
+
   **Reason:**
 
   TODO
@@ -2073,10 +2119,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0087W
 
-### ZWED0087W":"%s stderr=%s
+  %s stderr=%s
 
   **Reason:**
 
@@ -2088,8 +2136,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0146W":"Could not stat destination or temp folder %s. Error=%s
+### ZWED0146W
 
+  Could not stat destination or temp folder %s. Error=%s
+
   **Reason:**
 
   TODO
@@ -2100,8 +2150,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0147W":"Cleanup not yet implemented
+### ZWED0147W
 
+  Cleanup not yet implemented
+
   **Reason:**
 
   TODO
@@ -2109,10 +2161,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0148W
 
-### ZWED0148W":"App extracted but not registered to App Server due to write fail. Error=%s
+  App extracted but not registered to App Server due to write fail. Error=%s
 
   **Reason:**
 
@@ -2124,8 +2178,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0149W":"Could not find pluginDefinition.json file in App (dir=%s). Error=%s
+### ZWED0149W
 
+  Could not find pluginDefinition.json file in App (dir=%s). Error=%s
+
   **Reason:**
 
   TODO
@@ -2136,8 +2192,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0150W":"%s library path %s does not exist
+### ZWED0150W
 
+  %s library path %s does not exist
+
   **Reason:**
 
   TODO
@@ -2145,10 +2203,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0151W
 
-### ZWED0151W":"unhandledRejection 
+  unhandledRejection 
 
   **Reason:**
 
@@ -2160,8 +2220,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0152W":"Error at call sessionStore. %s: %s
+### ZWED0152W
 
+  Error at call sessionStore. %s: %s
+
   **Reason:**
 
   TODO
@@ -2172,8 +2234,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0153W":"WARNING: CLI Argument missing name or has unsupported type%s
+### ZWED0153W
 
+  WARNING: CLI Argument missing name or has unsupported type%s
+
   **Reason:**
 
   TODO
@@ -2181,10 +2245,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0154W
 
-### ZWED0154W":"WARNING: Unrecognized command: %s
+  WARNING: Unrecognized command: %s
 
   **Reason:**
 
@@ -2196,8 +2262,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0155W":"%s
+### ZWED0155W
 
+  %s
+
   **Reason:**
 
   TODO
@@ -2205,10 +2273,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0156W
 
-### ZWED0156W":"1 function initLoggerMessages - ERROR - %s
+  1 function initLoggerMessages - ERROR - %s
 
   **Reason:**
 
@@ -2220,8 +2290,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0157W":"2 function initLoggerMessages - ERROR - %s
+### ZWED0157W
 
+  2 function initLoggerMessages - ERROR - %s
+
   **Reason:**
 
   TODO
@@ -2232,8 +2304,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0158W":"%s
+### ZWED0158W
 
+  %s
+
   **Reason:**
 
   TODO
@@ -2241,10 +2315,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0159W
 
-### ZWED0159W":"Plugin (%s) loading failed. Message: "%s" Successful: %s% (%s/%s) Attempted: %s% (%s/%s)
+  Plugin (%s) loading failed. Message: "%s" Successful: %s% (%s/%s) Attempted: %s% (%s/%s)
 
   **Reason:**
 
@@ -2256,8 +2332,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0160W":"Master cluster not found to save storage for id: %s, value: %s
+### ZWED0160W
 
+  Master cluster not found to save storage for id: %s, value: %s
+
   **Reason:**
 
   TODO
@@ -2268,8 +2346,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0161W":"Master cluster not found to save storage
+### ZWED0161W
 
+  Master cluster not found to save storage
+
   **Reason:**
 
   TODO
@@ -2277,10 +2357,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0162W
 
-### ZWED0162W":"Master cluster not found to add storage
+  Master cluster not found to add storage
 
   **Reason:**
 
@@ -2292,8 +2374,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0163W":"Master cluster was not found to delete storage for id: %s
+### ZWED0163W
 
+  Master cluster was not found to delete storage for id: %s
+
   **Reason:**
 
   TODO
@@ -2304,8 +2388,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0165W":"Unable to retrieve storage data from cluster promise %s
+### ZWED0165W
 
+  Unable to retrieve storage data from cluster promise %s
+
   **Reason:**
 
   TODO
@@ -2313,10 +2399,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0166W
 
-### ZWED0166W":"Error updating the storage: %s
+  Error updating the storage: %s
 
   **Reason:**
 
@@ -2328,8 +2416,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0167W":"Error adding to the storage: %s
+### ZWED0167W
 
+  Error adding to the storage: %s
+
   **Reason:**
 
   TODO
@@ -2337,10 +2427,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0168W
 
-### ZWED0168W":"Unable to retrieve storage value from cluster %s
+  Unable to retrieve storage value from cluster %s
 
   **Reason:**
 
@@ -2352,8 +2444,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0169W":"Error deleting the storage with id: %s %s
+### ZWED0169W
 
+  Error deleting the storage with id: %s %s
+
   **Reason:**
 
   TODO
@@ -2364,8 +2458,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0170W":"Plugin (%s) loading failed. Version: %s. Message: "%s"
+### ZWED0170W
 
+  Plugin (%s) loading failed. Version: %s. Message: "%s"
+
   **Reason:**
 
   TODO
@@ -2373,10 +2469,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0171W
 
-### ZWED0171W":"Rejected undefined referrer for url=%s, ip=%s
+  Rejected undefined referrer for url=%s, ip=%s
 
   **Reason:**
 
@@ -2388,284 +2486,333 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0172W":"Rejected bad referrer=%s for url=%s, ip=%s
+### ZWED0172W
 
+  Rejected bad referrer=_referrerHeaderValue_ for url=_accessedUrl_, ip=_clientIp_
+
   **Reason:**
 
-  TODO
+  The client from _clientIp_ tried to access _accessedUrl_ but due to having a referrer header value that didn't seem to originate from this server, a security violation was caused and the attempt to access the URL was rejected.
 
   **Action:**
 
-  TODO
+  Review the values to determine if this was a valid attempt to access the server or not. If this access seems suspicious, then the server was correct in rejecting the access. However, if the access attempt seemed legitimate, then this points to the referrer configuration needing revision. You can customize which referrer header values are permitted using the environment variable ZWE_REFERRER_HOSTS and it should be set to match the external hostnames of the system the app-server is running on.
 
 
 
-### ZWED0173W":"Unable to decode P12 certificate (different password than keystore?). Attempting to use empty string as password. Decode error: %s.
+### ZWED0173W
 
+  Unable to decode P12 certificate (different password than keystore?). Attempting to use empty string as password. Decode error: _error_.
+
   **Reason:**
 
-  TODO
+  The server tried to load the p12 file provided for the server certificate or certificate authorities, but encountered _error_. The server may not be accessible as a result of invalid TLS configuration.
 
   **Action:**
 
-  TODO
+  Check the value of zowe.certificate.keystore.password and zowe.certificate.truststore.password, or the environment variable KEYSTORE_PASSWORD to see if they any are valid for the p12 file provided, and adjust the configuration if needed. 
 
 
 
-### ZWED0174W":"%s could not verify (%s) as a supported platform to install (%s). Proceeding anyway...
+### ZWED0174W
 
+  _componentName_ could not verify (_operatingSystem_) as a supported platform to install (_pluginId_). Proceeding anyway...
+
   **Reason:**
 
-  TODO
+  The plugin _pluginId_ has a dependency which can only run on certain operating systems, and _operatingSystem_ is not on the list, but because the operating system is not explicitly forbidden, the server will attempt to load the plugin anyway. This may fail, but the server may continue to run without the plugin if possible.
 
   **Action:**
 
-  TODO
+  Review the plugin dependencies as seen in the plugin's pluginDefinition.json file to see if your Zowe configuration or the plugin can be changed in order to match the requirements. Consult the plugin developer if you believe the plugin was able to run fine on the operating system, so they can explicitly add support in the future.
 
 
 
-### ZWED0175W":"%s could not verify (%s) as a supported architecture to install (%s). Proceeding anyway...
+### ZWED0175W
 
+  _componentName_ could not verify (_systemArchitecture_) as a supported architecture to install (_pluginId_). Proceeding anyway...
+
   **Reason:**
 
-  TODO
+  The plugin _pluginId_ has a dependency which can only run on certain system architectures, and _systemArchitecture_ is not on the list, but because the system architecture is not explicitly forbidden, the server will attempt to load the plugin anyway. This may fail, but the server may continue to run without the plugin if possible.
 
   **Action:**
 
-  TODO
+  Review the plugin dependencies as seen in the plugin's pluginDefinition.json file to see if your Zowe configuration or the plugin can be changed in order to match the requirements. Consult the plugin developer if you believe the plugin was able to run fine on the system architecture, so they can explicitly add support in the future.
 
 
 
-### ZWED0176W":"Failed to load client cert/key pair for Caching Service
+### ZWED0177W
 
+  Unable to load _actionOrRecognizer_ for '_pluginId_' into config
+
   **Reason:**
 
-  TODO
+  The plugin _pluginId_ has an action or recognizer within its package and the plugin install process was trying to copy that into the workspace so it can be used, but encountered an error that prevented this.
 
   **Action:**
 
-  TODO
+  Contact support if the reason cannot be determined.
 
 
 
-### ZWED0177W":"Unable to load %s for '%s' into config
+### ZWED0178W
 
+  Skipping authentication plugin _pluginId_ because it's not HA compatible
+
   **Reason:**
 
-  TODO
+  The server is setup for running in high availability (HA) mode which requires that plugins that have state, in particular authentication plugins, must be HA-compatible or else errors will occur. Therefore, the server skips over loading of this plugin nbecause its pluginDefinition.json did not state it was HA compatible.
 
   **Action:**
 
-  TODO
+  Either the plugin must be updated to support and state its support for HA, or it must be removed, or HA mode disabled. To make a plugin support HA, the conformance program should be reviewed. When HA mode is supported, the plugin can be marked as compatible by setting capabilities.haCompatible=true within its initialization.
+
 
 
+### ZWED0179W
 
-### ZWED0178W":"Skipping authentication plugin %s because it's not HA compatible
+  Unable to retrieve the list of certificate authorities from the keyring=_keyringName_ owner=_username_ Error: _error_
 
   **Reason:**
 
-  TODO
+  The server could not automatically determine the certificate authorities (CA) from the z/OS keyring listed. This may cause the server to be unable to verify certificate chains from other servers or clients causing other errors later.
 
   **Action:**
 
-  TODO
+  Review the error to resolve it and contact support if needed. It's also possible as a workaround to explicitly state the CAs within the keyring that you would like to load, rather than relying upon the server's attempt to automatically find all CAs within the keyring.
+
 
 
+### ZWED0001E
 
-### ZWED0179W":"Unable to retrieve the list of certificate authorities from the keyring=%s owner=%s Error: %s
+  Error: _error_
 
   **Reason:**
 
-  TODO
+  The server is running in cluster mode and the cluster manager has encountered an unexpected error.
 
   **Action:**
 
-  TODO
+  Review the error to resolve it, and contact support if needed.
+
 
 
+### ZWED0002E
 
-### ZWED0001E":"Error: %s
+  Could not stop language manager for types=_languageName_
 
   **Reason:**
 
-  TODO
+  A plugin had a service that needed a language manager to run. During shutdown, the language manager could not be stopped.
 
   **Action:**
 
-  TODO
+  The language manager may continue to run after the app-server shuts down. Review the logs to determine the location of the language manager and try to stop the manager manually.
+
 
 
+### ZWED0003E
 
-### ZWED0002E":"Could not stop language manager for types=%s
+  Loopback configuration not valid, _loobackConfiguration_
+  Loopback calls will fail!
 
   **Reason:**
 
-  TODO
+  The loopback configuration that the server uses to contact itself over an internal network was missing a value for the network port, therefore no requests over the loopback address will be possible.
 
   **Action:**
 
-  TODO
+  Review the configuration of components.app-server.node.port to see if it has a value and set one to fix the issue.
 
 
 
-### ZWED0003E":"Loopback configuration not valid,%s\nLoopback calls will fail!
+### ZWED0004E
 
+  Could not listen on address _ip_:_port_. It is already in use by another process.
+
   **Reason:**
 
-  TODO
+  The server tried to start using the ip and port values shown which were from the zowe configuration. When trying to connect to this address, the server recieved an error telling it that the address was already in use.
 
   **Action:**
 
-  TODO
+  Check the system's network port status to see what program could be using this address, and either stop that program or change the zowe configuration to use a different address before restarting zowe.
 
 
 
-### ZWED0004E":"Could not listen on address %s:%s. It is already in use by another process.
+### ZWED0005E
 
+  Could not listen on address _ip_:_port_. Invalid IP for this system.
+
   **Reason:**
 
-  TODO
+  When the app-server was beinging to the address shown, it recieved the error EADDRNOTAVAIL or ENOTFOUND. In either case, the app-server was not able to bind to the address and so it will not run until the problem is solved.
 
   **Action:**
 
-  TODO
+  Review the address and check if there if it is valid or if there is some lack of permissions that might explain why these errors were received by the server.
 
 
 
-### ZWED0005E":"Could not listen on address %s:%s. Invalid IP for this system.
+### ZWED0006E
 
+  Usage: --inputApp | -i INPUTAPP --pluginsDir | -p PLUGINSDIR --zluxConfig | -c ZLUXCONFIGPATH [--verbose | -v]
+
   **Reason:**
 
-  TODO
+  This message appearas when you attempt app installation but have not provided enough of the mandatory arguments for the program to run. It is printing out what options are valid so that you can retry with different options.
 
   **Action:**
 
-  TODO
+  Retry the operation after modifying the input arguments to be valid against the list shown. Or, if you are trying to do app installation, you should use `zwe components install` instead whenever possible.
 
 
 
-### ZWED0006E":"Usage: --inputApp | -i INPUTAPP --pluginsDir | -p PLUGINSDIR --zluxConfig | -c ZLUXCONFIGPATH [--verbose | -v]
+### ZWED0007E
 
+  _serviceName_ invalid version _version_
+
   **Reason:**
 
-  TODO
+  The service mentioned was trying to be loaded by the server but failed validation due to the version number not being a a valid semver string. This service and therefore plugin will be skipped during loading.
 
   **Action:**
 
-  TODO
+  Contact the developers so that they can revise the pluginDefinition.json of the plugin where the service is located to be semver-compatible. Details on what a semver version is can be found at semver.org
 
 
 
-### ZWED0007E":"%s invalid version %s
+### ZWED0008E
 
+  _localServiceName_: invalid version range _serviceName_: _versionRange_
+
   **Reason:**
 
-  TODO
+  When the _serviceName_ was trying to be imported into a plugin as _localServiceName_, the version range of acceptable versions for the service to be imported was not valid. Due to this, the import cannot be resolved and the plugin will be skipped in loading.
 
   **Action:**
 
-  TODO
+  Contact the developers of the plugin this error occurred in as the pluginDefinition.json needs to be revised to have the version range given for this import service be a valid semver range string.
 
 
 
-### ZWED0008E":"%s: invalid version range %s: %s
+### ZWED0009E
 
+  _localServiceName_: invalid version range _versionRange_
+
   **Reason:**
 
-  TODO
+  When the a service was trying to be imported into a plugin as _localServiceName_, the version range of acceptable versions for the service to be imported was not valid. Due to this, the import cannot be resolved and the plugin will be skipped in loading.
 
   **Action:**
 
-  TODO
+  Contact the developers of the plugin this error occurred in as the pluginDefinition.json needs to be revised to have the version range given for this import service be a valid semver range string.
 
 
 
-### ZWED0009E":"${this.localName}: invalid version range %s
+### ZWED0010E
 
+  No file name for data service
+
   **Reason:**
 
-  TODO
+  When the server was trying to load a service for a plugn, it couldn't identify the filename where the service is located within the plugin, so the service and therefore plugin have been skipped during loading.
 
   **Action:**
 
-  TODO
+  Contact the plugin developer to fix that the service within the pluginDefinition.json is missing the "fileName" or "filename" property which must describe the path to the dataservice entry file, relative to the plugin's lib directory.
+
 
 
+### ZWED0011E
 
-### ZWED0010E":"No file name for data service
+  Plugin _pluginId_ has web content but no web directory under _location_
 
   **Reason:**
 
-  TODO
+  The plugin definition of _pluginId_ stated that the plugin has web content to serve such as HTML files, but the required 'web' folder was missing, so the plugin cannot be loaded.
 
   **Action:**
 
-  TODO
+  Check that the web folder within this plugin exists or not. If it does exist, then the server may not have had permission to read it. Otherwise, if it doesn't exist, try to reinstall the plugin in case it is corrupt. Or, contact the developers to fix the lack of web directory.
+
 
 
+### ZWED0012E
 
-### ZWED0011E":"Plugin %s has web content but no web directory under %s
+  _pluginId_::_serviceName_ Required local service missing: _localService_
 
   **Reason:**
 
-  TODO
+  The service _serviceName_ could not be loaded because of an unsatisfied version requirement upon another service. This causes the plugin _pluginId_ to be skipped during loading.
 
   **Action:**
 
-  TODO
+  Review the plugin's definition to see why the version match could not be made. Either a required plugin is missing, or the pluginDefinition.json will need to be revised by the developer of the plugin to fix the version check failure.
+
 
 
+### ZWED0013E
 
-### ZWED0012E":"%s::%s Required local service missing: serviceName
+  _pluginId_::_serviceName_ Could not find a version to satisfy local dependency _serviceName_@_requiredVersion_
 
   **Reason:**
 
-  TODO
+  The service _serviceName_ could not be loaded because of an unsatisfied version requirement upon another service. This causes the plugin _pluginId_ to be skipped during loading.
 
   **Action:**
 
-  TODO
+  Review the plugin's definition to see why the version match could not be made. Either a required plugin is missing, or the pluginDefinition.json will need to be revised by the developer of the plugin to fix the version check failure.
+
 
 
+### ZWED0014E
 
-### ZWED0013E":"%s::%s Could not find a version to satisfy local dependency %s@%s
+  Plugin _pluginId_ invalid
 
   **Reason:**
 
-  TODO
+  The plugin could not be loaded because the plugin definition was not valid in some way. There are fields that every plugin must define, such as type. Then, depending on type, there are more fields a plugin can and cannot have. When the server went to load the plugin, it found that the definition was not correct versus the requirements, so the loading of this plugin was skipped.
 
   **Action:**
 
-  TODO
+  Contact the developers of this plugin so that they can fix the plugin to adhere to the [plugin schema](https://github.com/zowe/zlux-app-server/blob/v2.x/master/schemas/plugindefinition-schema.json)
 
 
 
-### ZWED0014E":"Plugin %s invalid
+### ZWED0015E
 
+  No plugin directory found at _pluginLocation_
+
   **Reason:**
 
-  TODO
+  The server finds plugins by reading JSON files within the "plugins" folder of its workspace directory. When it checked the JSON of this particular plugin, the JSON stated the plugin could be found at a folder _pluginLocation_ which either does not exist or could not be read by the server.
 
   **Action:**
 
-  TODO
+  Check that the location shown exists. If it does exist, then there is some permission problem preventing the server from reading it. If it does not exist, determine whether this plugin is desired but has the wrong location, or if this plugin is not desired and should be removed. Contact support so they can assist in fixing the plugin location problem.
 
 
 
-### ZWED0015E":"%s: No plugin directory found at %s
+### ZWED0016E
 
+  No pluginDefinition.json found at _pluginLocation_
+
   **Reason:**
 
-  TODO
+  The server finds pugins by reading JSON files within the "plugins" folder of its workspace directory. When it checked the JSON of this particular plugin, it stated the plugin was located in a folder which the server determined did not contain the pluginDefinition.json file that every plugin requires. Due to this missing file, the loading of this plugin was skipped.
 
   **Action:**
 
-  TODO
+  Check that a pluginDefinition.json exists at the location specified. If it does, then the server is missing permissions necessary to read the file. If the file does not exist, review if there is a problem with the plugin itself that should be resolved by contacting the plugin developers. If the plugin exists with a pluginDefinition.json file at a different location than the error suggests, contact Zowe support to resolve the location problem.
 
 
 
-### ZWED0016E":"%s: No pluginDefinition.json found at %s
+### ZWED0017E
 
+  Identifier doesn't match one found in pluginDefinition: %s
+
   **Reason:**
 
   TODO
@@ -2676,8 +2823,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0017E":"Identifier doesn't match one found in pluginDefinition: %s
+### ZWED0018E
 
+  No plugin type found, skipping
+
   **Reason:**
 
   TODO
@@ -2685,10 +2834,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0019E
 
-### ZWED0018E":"No plugin type found, skipping
+  Plugin already registered
 
   **Reason:**
 
@@ -2700,8 +2851,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0019E":"Plugin already registered
+### ZWED0020E
 
+  %s: pluginType %s is unknown
+
   **Reason:**
 
   TODO
@@ -2709,10 +2862,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0021E
 
-### ZWED0020E":"%s: pluginType %s is unknown
+  %s is missing
 
   **Reason:**
 
@@ -2724,8 +2879,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0021E":"%s is missing
+### ZWED0022E
 
+  Module not found %s
+
   **Reason:**
 
   TODO
@@ -2736,8 +2893,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0022E":"Module not found %s
+### ZWED0023E
 
+  Method not implemented %s
+
   **Reason:**
 
   TODO
@@ -2745,10 +2904,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0024E
 
-### ZWED0023E":"Method not implemented %s
+  Object not exported %s
 
   **Reason:**
 
@@ -2760,8 +2921,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0024E":"Object not exported %s
+### ZWED0025E
 
+  .authenticate() missing
+
   **Reason:**
 
   TODO
@@ -2772,8 +2935,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0025E":".authenticate() missing
+### ZWED0026E
 
+  Circular dependency: %s
+
   **Reason:**
 
   TODO
@@ -2781,10 +2946,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0027E
 
-### ZWED0026E":"Circular dependency: %s
+  Circular dependency: %s
 
   **Reason:**
 
@@ -2796,8 +2963,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0027E":"Circular dependency: %s
+### ZWED0028E
 
+  Config invalid
+
   **Reason:**
 
   TODO
@@ -2808,8 +2977,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0028E":"Config invalid
+### ZWED0029E
 
+  JavaManager given port range beyond limits
+
   **Reason:**
 
   TODO
@@ -2817,10 +2988,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0030E
 
-### ZWED0029E":"JavaManager given port range beyond limits
+  JavaManager not given any ports with which to run servers
 
   **Reason:**
 
@@ -2832,8 +3005,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0030E":"JavaManager not given any ports with which to run servers
+### ZWED0031E
 
+  Unknown java war grouping default=%s
+
   **Reason:**
 
   TODO
@@ -2841,10 +3016,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0032E
 
-### ZWED0031E":"Unknown java war grouping default=%s
+  Could not find port to use for configuration, at config position=%s
 
   **Reason:**
 
@@ -2856,8 +3033,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0032E":"Could not find port to use for configuration, at config position=%s
+### ZWED0033E
 
+  Could not find runtime to satisfy group: %s
+
   **Reason:**
 
   TODO
@@ -2868,8 +3047,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0033E":"Could not find runtime to satisfy group: %s
+### ZWED0034E
 
+  Unknown java app server type=%s specified in config. Cannot continue with java loading
+
   **Reason:**
 
   TODO
@@ -2877,10 +3058,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0035E
 
-### ZWED0034E":"Unknown java app server type=%s specified in config. Cannot continue with java loading
+  Java runtimes not specified, and no JAVA_HOME set
 
   **Reason:**
 
@@ -2892,8 +3075,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0035E":"Java runtimes not specified, and no JAVA_HOME set
+### ZWED0036E
 
+  Java app server not defined in config
+
   **Reason:**
 
   TODO
@@ -2904,8 +3089,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0036E":"Java app server not defined in config
+### ZWED0037E
 
+  JavaManager not given either war or jar configuration options, nothing to do
+
   **Reason:**
 
   TODO
@@ -2913,10 +3100,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0038E
 
-### ZWED0037E":"JavaManager not given either war or jar configuration options, nothing to do
+  JavaManager given port range beyond limits
 
   **Reason:**
 
@@ -2928,8 +3117,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0038E":"JavaManager given port range beyond limits
+### ZWED0039E
 
+  JavaManager not given any ports with which to run servers
+
   **Reason:**
 
   TODO
@@ -2940,8 +3131,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0039E":"JavaManager not given any ports with which to run servers
+### ZWED0040E
 
+  Unknown java war grouping default=%s
+
   **Reason:**
 
   TODO
@@ -2949,10 +3142,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0041E
 
-### ZWED0040E":"Unknown java war grouping default=%s
+  Could not find port to use for configuration, at config position=%s
 
   **Reason:**
 
@@ -2964,8 +3159,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0041E":"Could not find port to use for configuration, at config position=%s
+### ZWED0042E
 
+  Could not find runtime to satisfy group: %s
+
   **Reason:**
 
   TODO
@@ -2973,10 +3170,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0043E
 
-### ZWED0042E":"Could not find runtime to satisfy group: %s
+  Unknown java app server type=%s specified in config. Cannot continue with java loading
 
   **Reason:**
 
@@ -2988,8 +3187,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0043E":"Unknown java app server type=%s specified in config. Cannot continue with java loading
+### ZWED0044E
 
+  Java runtimes not specified, and no JAVA_HOME set
+
   **Reason:**
 
   TODO
@@ -3000,8 +3201,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0044E":"Java runtimes not specified, and no JAVA_HOME set
+### ZWED0045E
 
+  Java app server not defined in config
+
   **Reason:**
 
   TODO
@@ -3009,10 +3212,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0046E
 
-### ZWED0045E":"Java app server not defined in config
+  JavaManager not given either war or jar configuration options, nothing to do
 
   **Reason:**
 
@@ -3024,8 +3229,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0046E":"JavaManager not given either war or jar configuration options, nothing to do
+### ZWED0047E
 
+  Proxy (%s:%s) setup failed.\nHost & Port for proxy destination are required but were missing.\nFor information on how to configure a proxy service, see the Zowe wiki on dataservices (https://github.com/zowe/zlux/wiki/ZLUX-Dataservices)
+
   **Reason:**
 
   TODO
@@ -3036,8 +3243,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0047E":"Proxy (%s:%s) setup failed.\nHost & Port for proxy destination are required but were missing.\nFor information on how to configure a proxy service, see the Zowe wiki on dataservices (https://github.com/zowe/zlux/wiki/ZLUX-Dataservices)
+### ZWED0049E
 
+  Can't specify error metadata
+
   **Reason:**
 
   TODO
@@ -3045,10 +3254,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0050E
 
-### ZWED0049E":"Can't specify error metadata
+  Root service %s not found
 
   **Reason:**
 
@@ -3060,8 +3271,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0050E":"Root service %s not found
+### ZWED0051E
 
+  Could not resolve service URL. Plugin=%s, service=%s
+
   **Reason:**
 
   TODO
@@ -3072,8 +3285,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0051E":"Could not resolve service URL. Plugin=%s, service=%s
+### ZWED0052E
 
+  Could not load service %s:%s due to unknown type=%s
+
   **Reason:**
 
   TODO
@@ -3081,10 +3296,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0053E
 
-### ZWED0052E":"Could not load service %s:%s due to unknown type=%s
+  Import %s:%s can't be satisfied
 
   **Reason:**
 
@@ -3096,8 +3313,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0053E":"Import %s:%s can't be satisfied
+### ZWED0111E
 
+  SEVERE: Exception occurred trying to generate object from input:%s
+
   **Reason:**
 
   TODO
@@ -3105,10 +3324,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0112E
 
-### ZWED0111E":"SEVERE: Exception occurred trying to generate object from input:%s
+  The server found no plugin implementing the specified default authentication type of %s.
 
   **Reason:**
 
@@ -3120,8 +3341,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0112E":"The server found no plugin implementing the specified default authentication type of %s.
+### ZWED0113E
 
+  The server found no authentication types. Verify that the server configuration file defines server authentication.
+
   **Reason:**
 
   TODO
@@ -3132,8 +3355,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0113E":"The server found no authentication types. Verify that the server configuration file defines server authentication.
+### ZWED0114E
 
+  The server found no plugin implementing the specified default authentication type of %s.
+
   **Reason:**
 
   TODO
@@ -3141,10 +3366,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0115E
 
-### ZWED0114E":"The server found no plugin implementing the specified default authentication type of %s.
+  Unable to retrieve storage object from cluster. This is probably due to a timeout.\nYou may change the default of '%s' ms by setting 'node.cluster.storageTimeout' within the config. %s
 
   **Reason:**
 
@@ -3156,8 +3383,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0115E":"Unable to retrieve storage object from cluster. This is probably due to a timeout.\nYou may change the default of '%s' ms by setting 'node.cluster.storageTimeout' within the config. %s
+### ZWED0145E
 
+  Cannot load SAF keyring content outside of z/OS
+
   **Reason:**
 
   TODO
@@ -3168,8 +3397,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0145E":"Cannot load SAF keyring content outside of z/OS
+### ZWED0146E
 
+  SAF keyring data had no attribute "%s". Attributes=
+
   **Reason:**
 
   TODO
@@ -3177,10 +3408,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0147E
 
-### ZWED0146E":"SAF keyring data had no attribute "%s". Attributes=
+  SAF keyring data was not found for "%s"
 
   **Reason:**
 
@@ -3192,8 +3425,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0147E":"SAF keyring data was not found for "%s"
+### ZWED0148E
 
+  Exception thrown when reading SAF keyring, e=
+
   **Reason:**
 
   TODO
@@ -3204,8 +3439,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0148E":"Exception thrown when reading SAF keyring, e=
+### ZWED0149E
 
+  SAF keyring reference missing userId "%s", keyringName "%s", or label "%s"
+
   **Reason:**
 
   TODO
@@ -3213,10 +3450,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0150E
 
-### ZWED0149E":"SAF keyring reference missing userId "%s", keyringName "%s", or label "%s"
+  Cannot load SAF keyring due to missing keyring_js library
 
   **Reason:**
 
@@ -3228,8 +3467,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0150E":"Cannot load SAF keyring due to missing keyring_js library
+### ZWED0151E
 
+  Env var %s not found
+
   **Reason:**
 
   TODO
@@ -3237,10 +3478,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0152E
 
-### ZWED0151E":"Env var %s not found
+  Unable to locate server config instance location and INSTANCE_DIR environment variable does not exist.
 
   **Reason:**
 
@@ -3252,8 +3495,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0152E":"Unable to locate server config instance location and INSTANCE_DIR environment variable does not exist.
+### ZWED0153E
 
+  (%s) is not a supported platform for %s. Skipping (%s)... Supported: %s
+
   **Reason:**
 
   TODO
@@ -3264,8 +3509,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0153E":"(%s) is not a supported platform for %s. Skipping (%s)... Supported: %s
+### ZWED0154E
 
+  (%s) is not a supported architecture for %s. Skipping (%s)... Supported: %s
+
   **Reason:**
 
   TODO
@@ -3273,10 +3520,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0155E
 
-### ZWED0154E":"(%s) is not a supported architecture for %s. Skipping (%s)... Supported: %s
+  (%s) is not a supported endpoint for %s. Skipping (%s)... Supported: %s
 
   **Reason:**
 
@@ -3288,8 +3537,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0155E":"(%s) is not a supported endpoint for %s. Skipping (%s)... Supported: %s
+### ZWED0156E
 
+  Could not register default plugins into app-server
+
   **Reason:**
 
   TODO
@@ -3300,8 +3551,10 @@ The following error message codes may appear on the app-server log. Use the foll
 
 
 
-### ZWED0156E":"Could not register default plugins into app-server
+### ZWED0157E
 
+  Could not register default plugin %s into app-server
+
   **Reason:**
 
   TODO
@@ -3309,10 +3562,12 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
+
 
 
+### ZWED0158E
 
-### ZWED0157E":"Could not register default plugin %s into app-server
+  Could not listen on address %s:%s. Insufficient permissions to perform port bind.
 
   **Reason:**
 
@@ -3321,7 +3576,3 @@ The following error message codes may appear on the app-server log. Use the foll
   **Action:**
 
   TODO
-
-
-
-### ZWED0158E":"Could not listen on address %s:%s. Insufficient permissions to perform port bind."
