@@ -1858,7 +1858,7 @@ The following error message codes may appear on the app-server log. Use the foll
 
 ### ZWED0068W
 
-  Failed to set proxy authorizations. Error=
+  Failed to set proxy authorizations. Error=%s
 
   **Reason:**
 
@@ -1914,7 +1914,7 @@ The following error message codes may appear on the app-server log. Use the foll
 
 ### ZWED0072W
 
-  Could not stop manager, error=
+  Could not stop manager, error=%s
 
   **Reason:**
 
@@ -1928,7 +1928,7 @@ The following error message codes may appear on the app-server log. Use the foll
 
 ### ZWED0073W
 
-  No server returned for group=
+  No server returned for group=%s
 
   **Reason:**
 
@@ -2600,7 +2600,7 @@ The following error message codes may appear on the app-server log. Use the foll
 
 ### ZWED0002E
 
-  Could not stop language manager for types=_languageName_
+  Could not stop language manager for types=_languageNames_
 
   **Reason:**
 
@@ -2623,7 +2623,7 @@ The following error message codes may appear on the app-server log. Use the foll
 
   **Action:**
 
-  Review the configuration of components.app-server.node.port to see if it has a value and set one to fix the issue.
+  Review the configuration of `components.app-server.node.port` to see if it has a value and set one to fix the issue.
 
 
 
@@ -2647,11 +2647,11 @@ The following error message codes may appear on the app-server log. Use the foll
 
   **Reason:**
 
-  When the app-server was beinging to the address shown, it recieved the error EADDRNOTAVAIL or ENOTFOUND. In either case, the app-server was not able to bind to the address and so it will not run until the problem is solved.
+  When the app-server was binding to the address shown, it recieved the error EADDRNOTAVAIL or ENOTFOUND. In either case, the app-server was not able to bind to the address and so it will not run until the problem is solved.
 
   **Action:**
 
-  Review the address and check if there if it is valid or if there is some lack of permissions that might explain why these errors were received by the server.
+  Review the address and check if it is valid or if there is some lack of permissions that might explain why these errors were received by the server.
 
 
 
@@ -3427,7 +3427,7 @@ The following error message codes may appear on the app-server log. Use the foll
 
 ### ZWED0148E
 
-  Exception thrown when reading SAF keyring, e=
+  Exception thrown when reading SAF keyring, e=%s
 
   **Reason:**
 
